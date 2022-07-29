@@ -1,0 +1,18 @@
+funcion = [ a * b ] + [ b + ¬c ]
+funcion = [ a * b ] + [ b + ¬c ] -.,{}666 66
+funcion = ( a * b ) + ( b + ¬c ) -.,{}666 66
+funcion hola 
+funcion = ( a * b ) + ( b + ¬ c )
+funcion = ( a * b ) + ( b + ¬c ) funcion = ( a * b ) + ( b + ¬c )
+
+
+correcto 
+
+
+hola = ( ¬ as * ¬a )
+hola = ( ¬ as + ¬a )
+hola = ( ¬ as * a ) 
+hola = (  as * ¬a )
+hola = (  as * a ) 
+hola = ( ¬ as * ¬a )
+hola = ( ¬ as + ¬a )
